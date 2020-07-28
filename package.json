@@ -22,7 +22,19 @@
     "stripe": "6.28.0"
   },
   "devDependencies": {
-    "concurrently": "^4.0.1",
+    "concurrently": "^5.2.0",
     "nodemon": "^1.19.1"
-  }
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzianislysionak/clothing-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzianislysionak/clothing-shop/issues"
+  },
+  "homepage": "https://github.com/dzianislysionak/clothing-shop#readme",
+  "description": ""
 }
